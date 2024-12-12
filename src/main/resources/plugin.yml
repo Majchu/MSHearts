@@ -1,0 +1,7 @@
+name: MSHearts
+version: '${project.version}'
+main: me.majchu.mshearts.MSHearts
+api-version: '1.21'
+commands:
+  serce:
+    description: "MasnySewiwal command"

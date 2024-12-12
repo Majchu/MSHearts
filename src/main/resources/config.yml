@@ -1,0 +1,6 @@
+message:
+  buy: "&fKupiłeś dodatkowe serduszko! &c❤"
+  noLevel: "&fNie masz wystarczającego poziomu doświadczenia! Potrzebujesz &d50 &fpoziomów."
+  limit: "&fOsiągnąłeś maksymalną liczbę dodatkowych serc!"
+scoreboard:
+  text: "&c❤"
